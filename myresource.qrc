@@ -1,0 +1,36 @@
+<RCC>
+    <qresource prefix="/">
+        <file>sound/background.wav</file>
+        <file>sound/chessone(1).wav</file>
+        <file>sound/clickOne.wav</file>
+        <file>sound/lose.wav</file>
+        <file>sound/win.wav</file>
+        <file>images/AgainBegin.png</file>
+        <file>images/background.png</file>
+        <file>images/backgroundFont.png</file>
+        <file>images/BBlack.png</file>
+        <file>images/BeginGame.png</file>
+        <file>images/black.png</file>
+        <file>images/BlackFirst.png</file>
+        <file>images/BWhite.png</file>
+        <file>images/ComputerFirst.png</file>
+        <file>images/Deploy.png</file>
+        <file>images/Fall.png</file>
+        <file>images/fire.png</file>
+        <file>images/ForPlace.png</file>
+        <file>images/Online.png</file>
+        <file>images/PeopleAndComputer.png</file>
+        <file>images/PeoPleTogether.png</file>
+        <file>images/PlayerFirst.png</file>
+        <file>images/qipan.png</file>
+        <file>images/qipan1.png</file>
+        <file>images/qipan2.png</file>
+        <file>images/Readly.png</file>
+        <file>images/Regret.png</file>
+        <file>images/Return.png</file>
+        <file>images/Sound.png</file>
+        <file>images/white.png</file>
+        <file>images/WhiteFirst.png</file>
+        <file>images/gameInfo.jpg</file>
+    </qresource>
+</RCC>
